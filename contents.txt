@@ -1,0 +1,13 @@
+Fake Company: Blossom Bakery
+
+Theme (for consistency): Mostly floral
+
+Purpose: bakery and flower shop
+
+Palette: 
+#FAF7F3, #F0E4D3, #DCC5B2, #D9A299
+
+Positioning:
+  - H1-6: Centered, larger than usual
+  - Figures: Alternating with image on left or right, text on opposing side
+  - Text: has white background with black text
